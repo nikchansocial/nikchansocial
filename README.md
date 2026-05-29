@@ -2,44 +2,27 @@
 
 ### Finance • Business Analytics • Data Storytelling
 
-Learning how businesses make decisions and how data can make those decisions better.
+Exploring how finance, analytics, and data shape business decisions.
 
 ---
 
 ## About
 
-I'm a PGDM student specializing in Finance and Business Analytics, passionate about understanding how businesses create value through data-driven decision making.
+I'm fascinated by how businesses create value, make decisions, and grow.
 
-My interests lie at the intersection of finance, analytics, and business intelligence. Through projects involving SQL, Power BI, financial modeling, and data visualization, I enjoy transforming raw data into meaningful insights that support better decisions.
+Through finance, analytics, and real-world projects, I'm learning how data can uncover opportunities, improve performance, and support better business outcomes.
 
-This GitHub serves as a public record of my learning journey, projects, experiments, and growth as I build skills in analytics and finance.
+This GitHub is where I document that journey—one project, one insight, and one lesson at a time.
 
 ---
 
 ## Current Focus
 
-* Building analytics projects with real business context
-* Strengthening SQL and Power BI skills
-* Learning financial modeling and valuation techniques
-* Improving data storytelling and visualization
-* Exploring business intelligence and decision analytics
-* Building a portfolio that reflects practical problem-solving
-
----
-
-## Skills
-
-### Analytics
-
-SQL • Power BI • Excel • Data Visualization
-
-### Finance
-
-Financial Modeling • Financial Statement Analysis • Valuation
-
-### Business
-
-Business Analytics • KPI Analysis • Data Storytelling • Decision Making
+* Learning the tools used in finance and analytics
+* Understanding how businesses operate and create value
+* Making data-driven business decisions
+* Exploring profitability and performance improvement
+* Building practical projects with real business context
 
 ---
 
@@ -47,17 +30,17 @@ Business Analytics • KPI Analysis • Data Storytelling • Decision Making
 
 I believe the best way to learn is by building.
 
-Every repository on this profile represents a concept explored, a problem solved, or a lesson learned. My goal isn't simply to learn tools—it's to understand how businesses use data to make better decisions and communicate those insights effectively.
+Every repository here represents a question explored, a problem analyzed, or an idea tested. My goal isn't simply to learn tools—it's to develop the ability to think critically about business problems and use data to solve them.
 
-I'm committed to continuous learning, sharing progress publicly, and improving one project at a time.
+I'm committed to continuous learning, sharing progress publicly, and improving with every project.
 
 ---
 
 ## Connect
 
-* LinkedIn: [www.linkedin.com/in/nikchansocial](http://www.linkedin.com/in/nikchansocial)
-* GitHub: github.com/nikchansocial
+* LinkedIn → [www.linkedin.com/in/nikchansocial](http://www.linkedin.com/in/nikchansocial)
+* Email → [nikchansocial@gmail.com](mailto:nikchansocial@gmail.com)
 
 ---
 
-Building in public, one project at a time.
+Exploring business through finance, analytics, and data.
