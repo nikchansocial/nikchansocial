@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/nikchansocial/nikchansocial/main/banner.png" width="100%" />
-
 # Nikhil Chandrakar
 
 ### Finance • Business Analytics • Data Storytelling
