@@ -1,90 +1,63 @@
-<div align="center">
+# Nikhil Chandrakar
 
-<img src="banner.png" width="100%" />
+### Finance • Business Analytics • Data Storytelling
 
-# Hey 👋 I'm Nikhil
-
-### 📊 Commerce Student Exploring Analytics & Building Cool Projects
-
-☕ Fueled by curiosity, dashboards, and last-minute project ideas
-
-</div>
+Learning how businesses make decisions and how data can make those decisions better.
 
 ---
 
-# 🧠 About Me
+## About
 
-I’m not a hardcore coder 😄
+I'm a PGDM student specializing in Finance and Business Analytics, passionate about understanding how businesses create value through data-driven decision making.
 
-Just a finance student who got curious about analytics, dashboards, machine learning, and turning boring data into interesting insights.
+My interests lie at the intersection of finance, analytics, and business intelligence. Through projects involving SQL, Power BI, financial modeling, and data visualization, I enjoy transforming raw data into meaningful insights that support better decisions.
 
-So now I build projects and upload them here while learning step by step 🚀
-
----
-
-# 🚀 Projects I Built
-
-## 🤖 Bank Customer Churn Prediction
-
-Machine learning + banking analytics project where I explored customer churn prediction and built an interactive Streamlit dashboard.
-
-🔗 Repo:
-https://github.com/nikchansocial/bank-customer-churn-prediction-ml
+This GitHub serves as a public record of my learning journey, projects, experiments, and growth as I build skills in analytics and finance.
 
 ---
 
-## 🏦 European Bank Customer Churn Analysis
+## Current Focus
 
-A banking analytics dashboard focused on customer retention insights and business intelligence reporting.
-
-🔗 Repo:
-https://github.com/nikchansocial/european-bank-customer-churn-analysis
-
----
-
-## 📊 Customer Churn Dashboard in Excel
-
-Started with Excel dashboards and business analytics before moving into Python and ML projects.
-
-🔗 Repo:
-https://github.com/nikchansocial/customer-churn-analysis-excel
+* Building analytics projects with real business context
+* Strengthening SQL and Power BI skills
+* Learning financial modeling and valuation techniques
+* Improving data storytelling and visualization
+* Exploring business intelligence and decision analytics
+* Building a portfolio that reflects practical problem-solving
 
 ---
 
-# ⚒️ Tools I Use
+## Skills
 
-🐍 Python
-📊 Excel
-📈 Streamlit
-🧠 Scikit-learn
-📉 Plotly
-📋 Pandas
-☕ Curiosity
+### Analytics
 
----
+SQL • Power BI • Excel • Data Visualization
 
-# 🌱 Currently Learning
+### Finance
 
-* Power BI
-* Better Data Visualization
-* Predictive Analytics
-* Finance + Tech
-* How to make dashboards look less ugly 😭
+Financial Modeling • Financial Statement Analysis • Valuation
+
+### Business
+
+Business Analytics • KPI Analysis • Data Storytelling • Decision Making
 
 ---
 
-# 🤝 Let’s Connect
+## Learning Journey
 
-💼 LinkedIn
-https://linkedin.com/in/nikchansocial
+I believe the best way to learn is by building.
 
-📧 Gmail
-[nikchansocial@gmail.com](mailto:nikchansocial@gmail.com)
+Every repository on this profile represents a concept explored, a problem solved, or a lesson learned. My goal isn't simply to learn tools—it's to understand how businesses use data to make better decisions and communicate those insights effectively.
+
+I'm committed to continuous learning, sharing progress publicly, and improving one project at a time.
 
 ---
 
-<div align="center">
+## Connect
 
-✨ Learning analytics one project at a time ✨
+* LinkedIn: [www.linkedin.com/in/nikchansocial](http://www.linkedin.com/in/nikchansocial)
+* GitHub: github.com/nikchansocial
 
-</div>
+---
+
+Building in public, one project at a time.
