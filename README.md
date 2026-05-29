@@ -38,11 +38,4 @@ I'm committed to continuous learning, sharing progress publicly, and improving w
 
 ---
 
-## Connect
-
-* LinkedIn → [www.linkedin.com/in/nikchansocial](http://www.linkedin.com/in/nikchansocial)
-* Email → [nikchansocial@gmail.com](mailto:nikchansocial@gmail.com)
-
----
-
 Exploring business through finance, analytics, and data.
